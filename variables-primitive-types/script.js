@@ -39,3 +39,5 @@ console.log(typeof age);
 console.log(typeof student);
 
 console.log(typeof name, typeof age, typeof student);
+
+console.log(typeof 42, typeof "Egide", typeof null, typeof undefined)
