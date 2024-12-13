@@ -11,3 +11,20 @@ console.log(true || true);
 console.log(true || false);
 console.log(false || true);
 console.log(false || false);
+
+console.log("---------------")
+
+console.log(!true);
+console.log(!false);
+
+
+////////////////////////
+
+// JS Falsey values
+
+// false
+// 0
+// ""
+// null
+// undefined
+// NaN
