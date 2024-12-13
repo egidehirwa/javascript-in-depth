@@ -8,3 +8,9 @@
 
 console.log(5 === 5);
 console.log(4 === 5);
+
+console.log("--------------")
+
+//  Boolean mathematical operators
+
+console.log(9 > 5);
